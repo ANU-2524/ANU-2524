@@ -50,7 +50,6 @@
 ### 🚀 Featured Projects:
 - 🎓 **FinalBellDB** → Last School Day Chronicles ✨   
 - 🍽️ **Food Recipe App** → Mouth-watering recipes with step-by-step instructions & ingredient tracking 🔥  
-- 🔗 **Decentralized Identity Verification System** → Secure & Blockchain-powered 🔐  
 
 ---
 
