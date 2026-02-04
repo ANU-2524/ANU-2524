@@ -47,7 +47,9 @@ Next Level : Turning coffee into production-grade apps ☕→🚀
 
 ###  Daily Growing Contribution Snake (Animated!)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ANU-2524/ANU-2524/output/github-contribution-grid-snake.gif" alt="snake"/>
+  <div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
   <p><i>Watch me feed this snake every single day</i></p>
 </div>
 
